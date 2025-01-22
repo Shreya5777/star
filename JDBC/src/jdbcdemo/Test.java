@@ -21,7 +21,11 @@ import java.sql.Statement;
 			
 		 System.out.println("thsi is JDBC");
 			
+		
 		}
+		System.out.println("this is JDBC program");
+}
+
 	}
 	
 
